@@ -66,7 +66,7 @@ class DetailScreen extends StatelessWidget {
                     children: [
                       /// Name
                       Text(
-                        'Dian Sastro, 35',
+                        'John, 35',
                         style: Theme.of(context).textTheme.titleLarge,
                       ),
                       const SizedBox(height: 4.0),
