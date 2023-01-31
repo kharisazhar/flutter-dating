@@ -47,7 +47,7 @@ class DetailScreen extends StatelessWidget {
                 child: ClipRRect(
                   borderRadius: BorderRadius.circular(22.0),
                   child: Image.asset(
-                    'assets/images/pict2.jpeg',
+                    'assets/images/dian3.jpeg',
                     height: 440,
                     width: MediaQuery.of(context).size.width,
                     fit: BoxFit.cover,
@@ -66,7 +66,7 @@ class DetailScreen extends StatelessWidget {
                     children: [
                       /// Name
                       Text(
-                        'Pevita Pearce, 25',
+                        'Dian Sastro, 35',
                         style: Theme.of(context).textTheme.titleLarge,
                       ),
                       const SizedBox(height: 4.0),
